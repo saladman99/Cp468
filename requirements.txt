@@ -1,0 +1,7 @@
+torch==2.10.0
+datasets==5.0.0
+numpy==2.3.5
+tqdm==4.67.3
+rouge-score==0.1.2
+openai==2.46.0
+pytest==9.0.2
